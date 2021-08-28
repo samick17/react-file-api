@@ -1,7 +1,7 @@
 {
-  "name": "@swin/module_template",
+  "name": "react_file_system",
   "version": "0.0.1",
-  "description": "The swinventor module template",
+  "description": "The file system api",
   "main": "index.js",
   "scripts": {
     "test": "cross-env CI=1 react-scripts test --env=jsdom --passWithNoTests",
@@ -30,7 +30,8 @@
     "npm": ">=5"
   },
   "dependencies": {
-    "@material-ui/core": "^4.12.3"
+    "@material-ui/core": "^4.12.3",
+    "react-event-base": "^1.1.71"
   },
   "devDependencies": {
     "@babel/core": "^7.9.0",
