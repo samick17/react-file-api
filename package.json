@@ -16,7 +16,7 @@
     "postpublish": "git clean -fd",
     "gendoc": "node scripts/md-generator.js"
   },
-  "author": "samick17",
+  "author": "samick",
   "license": "MIT",
   "repository": "",
   "keywords": [
