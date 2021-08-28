@@ -1,5 +1,5 @@
 {
-  "name": "react_file_system",
+  "name": "react-file-system",
   "version": "0.1.0",
   "description": "The file system api",
   "main": "index.js",
